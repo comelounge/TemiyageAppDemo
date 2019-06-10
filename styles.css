@@ -1,0 +1,24 @@
+body {
+  background: #DFF0EE;
+  color: #333;
+  font-size: 15px;
+  font-family: YuGothic,'Yu Gothic','ヒラギノ角ゴシック','Hiragino Sans','メイリオ', Meiryo,'Meiryo UI','Avenir','Calibri',sans-serif;
+  margin: 0;
+}
+
+header {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+  font-size: 18px;
+}
+
+.container {
+  background: #fff;
+  border-radius: 5px;
+  width: 500px;
+  margin: 0 auto;
+  padding: 24px;
+}
